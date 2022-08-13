@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    font-family: "Josefin Sans",Helvetica,Arial,sans-serif;
+    color: #3f4850;
+}
+
+h1 {
+    font-family: "Lobster","Josefin Sans",Helvetica,Arial,sans-serif;
+    font-size: 4em;
+}
+
+h1, h2 {
+    color: #051c33;
+}
+h2 {
+    font-size: 2em;
+    margin: 52px 0 40px;
+    text-transform: capitalize;
+}
